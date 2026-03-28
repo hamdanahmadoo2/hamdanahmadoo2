@@ -334,5 +334,6 @@ This is proof of **mathematical ownership** — I understand what's happening in
 ![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=flat-square&logo=weaviate&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
