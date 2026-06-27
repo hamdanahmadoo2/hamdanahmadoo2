@@ -190,3 +190,61 @@ This is proof of **mathematical ownership** — I understand what's happening in
 | Multi-agent autonomous systems | Cloud-deployed, scalable architecture | Intelligent content generation pipelines |
 
 </div>
+
+## ◈ Core Architecture Stack
+
+<div align="center">
+
+<br>
+
+### 🧠 GenAI & Autonomous Agents
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&color=10B981&labelColor=0D1117" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/n8n_Workflows-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Vector_Databases-0D1117?style=for-the-badge&color=10B981&labelColor=0D1117" alt="Vector DBs"/>
+
+<br><br>
+
+### 🌐 High-Performance SaaS
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+
+<br><br>
+
+### ⚙️ On-Premise Infrastructure
+<img src="https://img.shields.io/badge/Local_AI_Servers-0D1117?style=for-the-badge&color=10B981&labelColor=0D1117" alt="On-Premise AI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux_Environments-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+
+<br><br>
+
+</div>
+
+---
+
+## 🤝 Collaboration & Contact
+
+<div align="center">
+
+**Open for GenAI Architecture roles, multi-agent system freelance projects, and high-impact open-source collaborations.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/">
+  <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:engrnadeem26@gmail.com">
+  <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/923117133585">
+  <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br><br>
+
+*The gap between an AI researcher and a software engineer is where most projects stall.*<br>
+*I close that gap — and ship.*
+
+</div>
