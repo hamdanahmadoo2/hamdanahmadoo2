@@ -1,53 +1,22 @@
+## About
 
-I am a **Machine Learning Engineer** and **Full-Stack AI Developer** focused on engineering **production-grade AI systems** that are scalable, reliable, and built for real-world deployment.
+I am a **Machine Learning Engineer** and **Full-Stack AI Developer** specializing in the design and development of **production-grade AI systems** that solve complex business problems through scalable software architecture and intelligent automation.
 
-Rather than treating AI as a standalone feature, I design complete software architectures where **Multi-Agent Systems**, **LLM Applications**, **Production RAG**, and **AI Automation** become core components of modern products.
+My expertise spans the complete engineering lifecycle—from **system architecture** and **AI model integration** to **production deployment**—building solutions that are reliable, maintainable, and engineered for long-term scale rather than short-term prototypes.
 
-<br>
+**Core Focus**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Focus
-
-* Multi-Agent Systems
-* Production RAG
-* LLM Applications
-* AI Automation
-* Local AI Infrastructure
-* Enterprise SaaS
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering
-
-* Software Architecture
-* Full-Stack Development
-* API & Backend Systems
-* Scalable Deployments
-* Performance Optimization
-* Cost-Efficient AI
-
-</td>
-</tr>
-</table>
+```text
+• Multi-Agent Systems
+• Large Language Model (LLM) Applications
+• Production RAG Pipelines
+• AI Automation & Intelligent Workflows
+• High-Performance SaaS Architecture
+• Local AI Infrastructure & On-Premise Deployment
+```
 
 <div align="center">
 
-```text
-Concept
-   │
-Architecture
-   │
-Artificial Intelligence
-   │
-Production Software
-   │
-Deployment
-```
+**Concept → Architecture → Intelligence → Product → Deployment**
 
 </div>
-```
