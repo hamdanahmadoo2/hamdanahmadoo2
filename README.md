@@ -1,134 +1,81 @@
+# VERSION 1 — "Terminal Green" (refined version of your current emerald look, just better contrast/gradient)
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:0d1117,50:161b27,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=16&descAlignY=78&descFontColor=6e7681"/>
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:0d1117,50:132619,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=16&descAlignY=78&descFontColor=7d8590"/>
 </div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=10B981&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%7C+LangGraph+%7C+n8n;Next.js+14+%7C+Production+SaaS+%7C+Supabase;Local+Server+AI+%7C+On-Premise+Infrastructure;End-to-End%3A+Architecture+%E2%86%92+Model+%E2%86%92+Deployment)](https://git.io/typing-svg)
 
 </div>
-
 <div align="center">
-
 <a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://engrnadeem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=10B981&label=Profile+Views)
-
 </div>
 
 ---
 
-## 🧬 The Architecture of Intelligence
+# VERSION 2 — "Wave / Software-house" (waving banner, navy+emerald two-tone, rounded badges)
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Nadeem%20Ahmad&fontSize=60&color=0:0d1117,50:13263d,100:0d1117&fontColor=34D399&stroke=2563EB&strokeWidth=1&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=16&descAlignY=62&descFontColor=8b949e"/>
+</div>
+<div align="center">
 
-> *"Most developers build applications. I architect intelligent systems — where scalable software architecture is the foundation and autonomous AI is the engine."*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%7C+LangGraph+%7C+n8n;Next.js+14+%7C+Production+SaaS+%7C+Supabase;Local+Server+AI+%7C+On-Premise+Infrastructure;End-to-End%3A+Architecture+%E2%86%92+Model+%E2%86%92+Deployment)](https://git.io/typing-svg)
 
 </div>
-
-Based in **Chiniot, Pakistan**, I operate exclusively at the intersection of production-grade software engineering and applied machine learning. I bridge the gap between complex AI research and fully scalable web applications. My focus is on architecting high-performance, cost-efficient autonomous systems that drive tangible business growth.
-
-When you work with me, you get end-to-end technical ownership:
-**concept → software architecture → production model → scalable deployment.**
-
----
-
-## ◈ Production Systems & Architecture
-
-| 🏢 Enterprise SaaS | 🤖 Autonomous Workflows | ⚙️ On-Premise Infrastructure |
-|:---|:---|:---|
-| **TalentSmith AI**<br/>Engineered a fully automated career platform using Next.js 14 and Supabase. Designed the complete architecture and deployment pipeline to process large-scale ATS optimization entirely independently. | **Voice & Webhook Automation**<br/>Architecting concurrent call stream processing systems using n8n, Twilio, and OpenAI. Implementing complex webhook triggers for zero-latency autonomous communication. | **NeuroWeb Labs**<br/>Founding and deploying localized, on-premise AI infrastructure. Prioritizing robust local server environments to ensure high data privacy and massive reductions in continuous operational costs. |
-| **UMeLGenAI**<br/>Developing a scalable 3-tier application utilizing multi-LLM consensus for automated architecture generation, implementing structural design patterns like Facade and Repository. | **Multi-Agent Coordination**<br/>Building planner-executor-critic agent loops via LangGraph, enabling systems to independently query databases, execute code, and synthesize real-time reporting. | **Production RAG**<br/>Deploying enterprise-grade retrieval pipelines using advanced vector databases (FAISS, ChromaDB) with multi-stage verification to guarantee hallucination-free outputs. |
-
----
-
-## ◈ Core Technology Stack
-
 <div align="center">
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://engrnadeem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-34D399?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117"/></a>
 
-### AI, Machine Learning & Automation
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-
-### Full Stack Architecture
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Infrastructure & Deployment
-![Local Server Setup](https://img.shields.io/badge/Local_Servers-10B981?style=flat-square)
-![On-Premise AI](https://img.shields.io/badge/On--Premise_AI-0d1117?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Webhook Streams](https://img.shields.io/badge/Webhook_Streams-25D366?style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=34D399&labelColor=0d1117&label=Profile+Views)
 </div>
 
 ---
 
-## ◈ Verified Milestones
-
-* **National Skill Competency Test**: Officially cleared and certified, validating advanced engineering and production capabilities.
-* **Enterprise Architecture Research**: Authoring formal documentation on multi-LLM consensus architectures for complex structural design generation.
-
----
-
-## ◈ GitHub Stats
+# VERSION 3 — "Minimal Monochrome" (slate/graphite, single accent, very clean/corporate)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=Nadeem%20Ahmad&fontSize=55&color=0:0d1117,100:161b22&fontColor=e6edf3&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=15&descAlignY=70&descFontColor=58a6ff"/>
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%7C+LangGraph+%7C+n8n;Next.js+14+%7C+Production+SaaS+%7C+Supabase;Local+Server+AI+%7C+On-Premise+Infrastructure;End-to-End%3A+Architecture+%E2%86%92+Model+%E2%86%92+Deployment)](https://git.io/typing-svg)
+
+</div>
+<div align="center">
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-161b22?style=flat-square&logo=gmail&logoColor=58A6FF"/></a>
+<a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-161b22?style=flat-square&logo=whatsapp&logoColor=58A6FF"/></a>
+<a href="https://engrnadeem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=58A6FF"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=flat-square&color=161b22&label=Profile+Views)
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+# VERSION 4 — "High Contrast Neon" (bold black + bright accent, stands out most on a profile grid)
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:000000,50:0d1117,100:000000&fontColor=00E599&stroke=00E599&strokeWidth=2&fontAlignY=55&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descSize=16&descAlignY=78&descFontColor=9aa4af"/>
+</div>
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
-        <b>LinkedIn</b><br/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="mailto:engrnadeem26@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
-        <b>Email</b><br/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://wa.me/923117133585">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
-        <b>WhatsApp</b><br/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://engrnadeem-portfolio.vercel.app/">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
-        <b>Portfolio</b><br/>
-      </a>
-    </td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2200&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%7C+LangGraph+%7C+n8n;Next.js+14+%7C+Production+SaaS+%7C+Supabase;Local+Server+AI+%7C+On-Premise+Infrastructure;End-to-End%3A+Architecture+%E2%86%92+Model+%E2%86%92+Deployment)](https://git.io/typing-svg)
 
 </div>
-
 <div align="center">
-*The gap between an AI researcher and a software engineer is where most projects stall.*
-*I close that gap — and ship.*
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E599"/></a>
+<a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E599"/></a>
+<a href="https://wa.me/923117133585"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00E599"/></a>
+<a href="https://engrnadeem-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00E599"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=00E599&labelColor=000000&label=Profile+Views)
 </div>
