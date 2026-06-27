@@ -1,19 +1,54 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=180&text=Nadeem%20Ahmad&fontSize=65&color=0:0d1117,50:161b27,100:0d1117&fontColor=10B981&stroke=10B981&strokeWidth=2&fontAlignY=55&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Architect&descSize=16&descAlignY=78&descFontColor=6e7681"/>
+<!-- Professional Hero Banner with SEO-optimized alt text -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Nadeem%20Ahmad&fontSize=70&color=0:0a0a0a,50:111827,100:0a0a0a&fontColor=f8fafc&stroke=3b82f6&strokeWidth=3&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20AI%20Systems%20Architect&descSize=18&descAlignY=72&descFontColor=94a3b8" alt="Nadeem Ahmad - Machine Learning Engineer and AI Systems Architect specializing in production-grade autonomous AI infrastructure"/>
 </div>
 <div align="center">
+<!-- SEO-optimized typing animation with senior-level keywords -->
 https://git.io/typing-svg
 </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-<a href="mailto:engrnadeem26@gmail.com">
-<a href="https://wa.me/923117133585">
-<a href="https://engrnadeem-portfolio.vercel.app/">
+<!-- Professional social badges with SEO-friendly links -->
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/" target="_blank" rel="noopener noreferrer" aria-label="Nadeem Ahmad LinkedIn Profile - Machine Learning Engineer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="Nadeem Ahmad LinkedIn - AI Systems Architect"/>
+</a>
+<a href="mailto:engrnadeem26@gmail.com" aria-label="Email Nadeem Ahmad - AI Engineering Consultant">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Contact Nadeem Ahmad via Email"/>
+</a>
+<a href="https://wa.me/923117133585" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp Nadeem Ahmad - AI Architecture Consulting">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp Nadeem Ahmad for AI Consulting"/>
+</a>
+<a href="https://engrnadeem-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Nadeem Ahmad Portfolio - Production AI Systems">
+  <img src="https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3b82f6" alt="Nadeem Ahmad Portfolio - Enterprise AI Projects"/>
+</a>
+<!-- Profile views with SEO keyword -->
  Profile Views 
+</div>
+<!-- SEO Hidden Keywords for AI Search Optimization -->
+<!--
+Nadeem Ahmad Machine Learning Engineer
+Nadeem Ahmad AI Systems Architect
+Nadeem Ahmad Full Stack AI Developer
+Nadeem Ahmad Multi Agent Systems Expert
+Nadeem Ahmad Production RAG Pipeline Engineer
+Nadeem Ahmad Autonomous AI Workflow Architect
+Nadeem Ahmad Next.js Supabase SaaS Developer
+Nadeem Ahmad Enterprise AI Infrastructure
+Nadeem Ahmad LangGraph LangChain Specialist
+Nadeem Ahmad Scalable Software Architecture
+Nadeem Ahmad Cost Efficient AI Systems
+Nadeem Ahmad Pakistan AI Engineer
+Nadeem Ahmad FAST NUCES Software Engineer
+-->
+<div align="center">
+<!-- Professional status badges -->
+<img src="https://img.shields.io/badge/Status-Available%20for%20Consulting-22c55e?style=flat-square&logo=statuspage&logoColor=white" alt="Nadeem Ahmad Available for AI Consulting"/>
+<img src="https://img.shields.io/badge/Experience-Production%20Grade%20AI%20Systems-3b82f6?style=flat-square&logo=rocket&logoColor=white" alt="Production Grade AI Systems Experience"/>
+<img src="https://img.shields.io/badge/Focus-Enterprise%20AI%20Architecture-f59e0b?style=flat-square&logo=building&logoColor=white" alt="Enterprise AI Architecture Focus"/>
+<img src="https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-ef4444?style=flat-square&logo=map-pin&logoColor=white" alt="Faisalabad Pakistan AI Engineer"/>
 </div>
 🏗️ Architecting Production-Grade AI Systems
 <div align="center">
-"I don't build chatbots. I architect autonomous AI infrastructure that scales with your business — from multi-agent consensus systems to enterprise SaaS platforms."
+"I architect autonomous AI infrastructure that scales with your business — from multi-agent consensus systems to enterprise SaaS platforms. Not chatbots. Production systems."
 </div>
 I operate at the intersection of AI research and production engineering — where most projects stall, I ship. Based in Faisalabad, Pakistan, with a foundation in Software Engineering from FAST NUCES, I specialize in bridging the gap between cutting-edge Generative AI and scalable, cost-efficient software architecture.
 <div align="center">
@@ -226,11 +261,11 @@ Infrastructure & Deployment
 </div>
 ◈ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=3b82f6&ring=3b82f6&fire=a78bfa&currStreakLabel=3b82f6&background=0a0a0a&sideLabels=94a3b8&dates=94a3b8" width="45%" alt="Nadeem Ahmad GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0a0a0a&color=3b82f6&line=3b82f6&point=a78bfa&hide_border=true&area=true&area_color=3b82f622" width="45%" alt="Nadeem Ahmad GitHub Activity Graph"/>
 </div>
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadeemahmad3&theme=tokyonight" alt="Nadeem Ahmad GitHub Profile Summary"/>
 </div>
 ◈ What I Build For Enterprises
 <div align="center">
@@ -247,29 +282,29 @@ Cost-efficient local inference pipelines	Cloud & on-premise deployment	Intellige
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br/>
+      <a href="https://www.linkedin.com/in/nadeem-ahmad3/" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="Nadeem Ahmad LinkedIn Profile"/><br/>
         <b>LinkedIn</b><br/>
         <sub>Professional Network</sub>
       </a>
     </td>
     <td align="center" width="25%">
       <a href="mailto:engrnadeem26@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55"/><br/>
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="55" alt="Email Nadeem Ahmad"/><br/>
         <b>Email</b><br/>
         <sub>engrnadeem26@gmail.com</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://wa.me/923117133585">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55"/><br/>
+      <a href="https://wa.me/923117133585" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="55" alt="WhatsApp Nadeem Ahmad"/><br/>
         <b>WhatsApp</b><br/>
         <sub>Quick Chat</sub>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://engrnadeem-portfolio.vercel.app/">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55"/><br/>
+      <a href="https://engrnadeem-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="55" alt="Nadeem Ahmad Portfolio Website"/><br/>
         <b>Portfolio</b><br/>
         <sub>See My Work</sub>
       </a>
@@ -280,19 +315,19 @@ Cost-efficient local inference pipelines	Cloud & on-premise deployment	Intellige
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1483/1483336.png" width="55" alt="Collaboration Icon"/>
       <br/>
       <h3>🤝 Collaborations</h3>
       <p>Open for enterprise AI projects,<br/>GenAI research, and joint architecture</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="55" alt="Consulting Icon"/>
       <br/>
       <h3>💼 Consulting</h3>
       <p>AI Architecture, Multi-Agent Systems,<br/>Production RAG, SaaS Engineering</p>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2933/2933116.png" width="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2933/2933116.png" width="55" alt="Opportunities Icon"/>
       <br/>
       <h3>🎯 Opportunities</h3>
       <p>Open to senior roles in AI Architecture,<br/>ML Engineering & Platform Engineering</p>
@@ -305,4 +340,4 @@ The gap between AI research and production engineering is where most AI initiati
 I don't just bridge that gap — I architect the bridge, and I ship production systems across it.
 ⭐ Star what helps you. Fork what inspires you.
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B98133,100:0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:3b82f633,100:0a0a0a&height=100&section=footer" alt="Footer Banner"/>
