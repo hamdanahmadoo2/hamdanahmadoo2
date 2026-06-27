@@ -1,32 +1,36 @@
-## ◈ Engineering Focus
+## ◈ Core Engineering Focus
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🧠 Production GenAI</h3>
-      <p><i>Enterprise RAG, multi-LLM consensus, and targeted fine-tuning for hallucination-free, high-accuracy outputs.</i></p>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vector_DBs-0d1117?style=flat-square&color=10B981"/>
+    <td width="50%" valign="top">
+      <h3><code>01</code> Production GenAI</h3>
+      <blockquote>
+        <b>Enterprise RAG & Consensus</b><br>
+        <i>Architecting hallucination-free pipelines and targeted fine-tuning for high-accuracy, grounded outputs.</i>
+      </blockquote>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 Autonomous Agents</h3>
-      <p><i>Complex LangGraph loops, advanced n8n webhooks, and concurrent voice streaming for zero-intervention workflows.</i></p>
-      <img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square"/>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3><code>02</code> Autonomous Agents</h3>
+      <blockquote>
+        <b>Zero-Intervention Workflows</b><br>
+        <i>Engineering complex agent loops and concurrent stream processing for end-to-end business automation.</i>
+      </blockquote>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🌐 Scalable SaaS</h3>
-      <p><i>End-to-end 3-tier architectures featuring real-time, AI-native frontend streaming and secure API backends.</i></p>
-      <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3><code>03</code> Scalable SaaS</h3>
+      <blockquote>
+        <b>AI-Native Web Platforms</b><br>
+        <i>Building end-to-end 3-tier architectures with real-time streaming interfaces and highly optimized backends.</i>
+      </blockquote>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>⚙️ Local Infrastructure</h3>
-      <p><i>Cost-efficient, containerized on-premise server deployments guaranteeing enterprise data privacy and cloud independence.</i></p>
-      <img src="https://img.shields.io/badge/Local_Servers-10B981?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    <td width="50%" valign="top">
+      <h3><code>04</code> Local Infrastructure</h3>
+      <blockquote>
+        <b>On-Premise Deployments</b><br>
+        <i>Deploying secure, containerized local server environments to guarantee data privacy and eliminate cloud overhead.</i>
+      </blockquote>
     </td>
   </tr>
 </table>
