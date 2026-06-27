@@ -1,10 +1,3 @@
-````markdown
-## / about
-
-```text
-Building intelligent systems where
-Software Architecture × Artificial Intelligence = Business Value
-````
 
 I am a **Machine Learning Engineer** and **Full-Stack AI Developer** focused on engineering **production-grade AI systems** that are scalable, reliable, and built for real-world deployment.
 
