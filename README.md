@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:1A1A1A,70:2B2623,100:B87333&text=Nadeem%20Ahmad&fontColor=F5E6D3&stroke=2B2B2B&strokeWidth=2&fontSize=62&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=62&descSize=18&descFontColor=A8A29E&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:0F2D23,100:10B981&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=62&descSize=18&descFontColor=8B949E&animation=fadeIn"/>
 
 <h3>
 
@@ -8,7 +8,7 @@ Engineering Scalable AI Systems • Multi-Agent Systems • Enterprise Software 
 
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=B87333&center=true&vCenter=true&width=760&lines=Multi-Agent+Systems+%7C+Production+RAG+%7C+Autonomous+AI;Next.js+%7C+FastAPI+%7C+Docker+%7C+Supabase;Local+AI+Infrastructure+%7C+Cost-Efficient+AI;Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Multi-Agent+Systems+%7C+Production+RAG+%7C+Autonomous+AI;Next.js+%7C+FastAPI+%7C+Docker+%7C+Supabase;Local+AI+Infrastructure+%7C+Cost-Efficient+AI;Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment"/>
 
 <br>
 
@@ -30,6 +30,6 @@ Engineering Scalable AI Systems • Multi-Agent Systems • Enterprise Software 
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=B87333&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=NadeemAhmad3&style=for-the-badge&color=10B981&label=PROFILE+VIEWS"/>
 
 </div>
