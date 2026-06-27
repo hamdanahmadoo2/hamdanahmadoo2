@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:0F2D23,100:10B981&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Building%20Production-Ready%20AI%20Systems&descAlignY=62&descSize=18&descFontColor=8B949E&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:0F2D23,100:10B981&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=62&descSize=18&descFontColor=8B949E&animation=fadeIn"/>
 
 <h3>
 
-Engineering Scalable AI Systems • Multi-Agent Systems • Enterprise Software Architecture • Local AI Infrastructure
+Building High-Performance, Scalable AI Systems for Real Business Impact
 
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Multi-Agent+Systems+%7C+Production+RAG+%7C+Autonomous+AI;Next.js+%7C+FastAPI+%7C+Docker+%7C+Supabase;Local+AI+Infrastructure+%7C+Cost-Efficient+AI;Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=820&lines=Multi-Agent+Systems+%7C+Production+RAG+%7C+Autonomous+Workflows;High-Performance+Software+Architecture+%7C+AI+Infrastructure;Next.js+%7C+FastAPI+%7C+Docker+%7C+Supabase;Cost-Efficient+AI+Solutions+%7C+Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment"/>
 
 <br>
 
 <a href="https://engrnadeem-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nadeem-ahmad3/">
