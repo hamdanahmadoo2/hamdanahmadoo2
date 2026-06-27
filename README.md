@@ -248,3 +248,93 @@ This is proof of **mathematical ownership** — I understand what's happening in
 *I close that gap — and ship.*
 
 </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:161B22,70:0F2D23,100:10B981&text=Nadeem%20Ahmad&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Full-Stack%20AI%20Developer&descAlignY=62&descSize=18&descFontColor=8B949E&animation=fadeIn" alt="Nadeem Ahmad - Machine Learning Engineer and Full-Stack AI Developer"/>
+
+<h3>
+Building High-Performance, Scalable AI Systems for Real Business Impact
+</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=820&lines=Multi-Agent+Systems+%7C+Production+RAG+%7C+Autonomous+Workflows;High-Performance+Software+Architecture+%7C+AI+Infrastructure;Next.js+%7C+FastAPI+%7C+Docker+%7C+Supabase;Cost-Efficient+AI+Solutions+%7C+Architecture+%E2%86%92+Engineering+%E2%86%92+Deployment" alt="Core Competencies Typing Effect"/>
+
+<br>
+
+<a href="https://engrnadeem-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/nadeem-ahmad3/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:engrnadeem26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/923174388725">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About My Engineering Philosophy
+
+I am a **Machine Learning Engineer** and **Full-Stack AI Developer** focused on product-first engineering. I move beyond brittle API wrappers to architect high-performance, fully scalable AI systems that directly accelerate business growth. 
+
+My expertise spans the complete engineering lifecycle—from designing multi-LLM consensus systems and custom RAG pipelines to deploying robust, cost-efficient local server infrastructure that guarantees data privacy without massive cloud overhead.
+
+**Core Architecture Specializations:**
+* **Multi-Agent Systems & Workflows:** Autonomous agent coordination using LangGraph and advanced n8n workflow automation.
+* **Scalable Software Architecture:** Production-ready, 3-tier SaaS applications utilizing Next.js, Node.js, and Supabase.
+* **Production RAG Pipelines:** Enterprise-grade retrieval systems with advanced vector databases and multi-stage grounded truth verification.
+* **Autonomous Communications:** Real-time streaming architectures and concurrent call processing using Twilio and OpenAI.
+
+---
+
+## 🏗️ Featured Architecture & Deployments
+
+**TalentSmith AI** An automated, production-grade career platform generating ATS-optimized resumes and no-code portfolios. Engineered end-to-end focusing on high-performance SaaS architecture, custom database schema optimization, and secure GitHub OAuth integration. 
+*Tech: Next.js 14, Supabase, Tailwind*
+
+**UMeLGenAI** A scalable 3-tier application designed for automated UML architecture generation. Implements a multi-LLM consensus mechanism utilizing structural design patterns (Facade, Repository) to ensure high-fidelity, production-ready system designs.
+*Tech: Multi-Agent Consensus, Python, FastAPI*
+
+**NeuroWeb Labs AI Infrastructure** Designed and deployed on-premise generative AI solutions, prioritizing local server infrastructure to drastically reduce cloud dependency and guarantee complete enterprise data privacy.
+*Tech: Local LLMs, Docker, On-Premise Networking*
+
+---
+
+## ◈ Tech Arsenal
+
+<div align="center">
+
+### AI, ML & Automation
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python"/></p>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-003566?style=flat-square) ![vLLM](https://img.shields.io/badge/vLLM-090909?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black)
+
+### Full-Stack Architecture
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,mongodb,postgresql"/></p>
+
+### Infrastructure & Deployment
+<p><img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,linux,git"/></p>
+
+</div>
+
+---
+
+## ◈ GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=NadeemAhmad3&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NadeemAhmad3&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+**Focusing on bridging the gap between cutting-edge AI research and scalable software engineering.** *If you are looking to build autonomous AI infrastructure that scales with your business, let's connect.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10B98133,100:0d1117&height=100&section=footer"/>
+</div>
